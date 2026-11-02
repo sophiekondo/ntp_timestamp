@@ -1,6 +1,6 @@
 [project]
 name = "ntp-timestamp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Encode and decode NTP 64-bit timestamps to Python datetime objects and Unix floats"
 requires-python = ">=3.10"
 dependencies = []
